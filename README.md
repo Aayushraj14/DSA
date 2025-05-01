@@ -23,4 +23,5 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aayushraj14/DSA/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/Aayushraj14/DSA/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
