@@ -12,6 +12,7 @@ leatcode and gfg problem
 | [0054-spiral-matrix](https://github.com/Aayushraj14/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aayushraj14/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aayushraj14/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -55,4 +57,12 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aayushraj14/DSA/tree/master/0054-spiral-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
