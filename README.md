@@ -65,4 +65,8 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/Aayushraj14/DSA/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
