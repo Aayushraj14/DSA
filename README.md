@@ -32,6 +32,7 @@ leatcode and gfg problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aayushraj14/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayushraj14/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +104,5 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
