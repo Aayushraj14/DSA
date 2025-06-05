@@ -13,6 +13,7 @@ leatcode and gfg problem
 | [0074-search-a-2d-matrix](https://github.com/Aayushraj14/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,9 +107,14 @@ leatcode and gfg problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
