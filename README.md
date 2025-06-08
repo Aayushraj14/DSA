@@ -19,6 +19,7 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aayushraj14/DSA/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ leatcode and gfg problem
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aayushraj14/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayushraj14/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -122,4 +124,12 @@ leatcode and gfg problem
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
