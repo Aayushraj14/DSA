@@ -20,6 +20,7 @@ leatcode and gfg problem
 | ------- |
 | [0001-two-sum](https://github.com/Aayushraj14/DSA/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ leatcode and gfg problem
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayushraj14/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -132,4 +134,9 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
