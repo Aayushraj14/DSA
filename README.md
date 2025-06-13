@@ -15,6 +15,7 @@ leatcode and gfg problem
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
+| [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ leatcode and gfg problem
 | [0125-valid-palindrome](https://github.com/Aayushraj14/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayushraj14/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -139,4 +141,8 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
