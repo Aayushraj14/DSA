@@ -48,6 +48,7 @@ leatcode and gfg problem
 | ------- |
 | [0009-palindrome-number](https://github.com/Aayushraj14/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Aayushraj14/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Aayushraj14/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/Aayushraj14/DSA/tree/master/0507-perfect-number) |
 ## String Matching
@@ -145,4 +146,8 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aayushraj14/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
