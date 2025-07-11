@@ -13,6 +13,7 @@ leatcode and gfg problem
 | [0054-spiral-matrix](https://github.com/Aayushraj14/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aayushraj14/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Aayushraj14/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aayushraj14/DSA/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
@@ -128,6 +129,7 @@ leatcode and gfg problem
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Aayushraj14/DSA/tree/master/0198-house-robber) |
 ## Monotonic Stack
 |  |
 | ------- |
