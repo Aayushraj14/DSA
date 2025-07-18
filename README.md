@@ -19,6 +19,7 @@ leatcode and gfg problem
 | [0238-product-of-array-except-self](https://github.com/Aayushraj14/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Aayushraj14/DSA/tree/master/0322-coin-change) |
 | [0724-find-pivot-index](https://github.com/Aayushraj14/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -116,6 +117,7 @@ leatcode and gfg problem
 | [0100-same-tree](https://github.com/Aayushraj14/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aayushraj14/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/Aayushraj14/DSA/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +148,7 @@ leatcode and gfg problem
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Aayushraj14/DSA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Aayushraj14/DSA/tree/master/0322-coin-change) |
 ## Monotonic Stack
 |  |
 | ------- |
