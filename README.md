@@ -17,6 +17,7 @@ leatcode and gfg problem
 | [0198-house-robber](https://github.com/Aayushraj14/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aayushraj14/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Aayushraj14/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -24,6 +25,7 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aayushraj14/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -58,6 +60,7 @@ leatcode and gfg problem
 | [0050-powx-n](https://github.com/Aayushraj14/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Aayushraj14/DSA/tree/master/0507-perfect-number) |
 ## String Matching
 |  |
@@ -68,6 +71,7 @@ leatcode and gfg problem
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aayushraj14/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -153,11 +157,13 @@ leatcode and gfg problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aayushraj14/DSA/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
 |  |
