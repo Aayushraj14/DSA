@@ -13,15 +13,18 @@ class Solution {
 public:
     int height(TreeNode* root){
         if(root==NULL)return 0;
-        int leftHeight=height(root->left);
-        int rightHeight=height(root->right);
-        return max(leftHeight,rightHeight)+1;
+        int lHeight=height(root->left)+1;
+        int rHeight=height(root->right)+1;
+        return max(lHeight,rHeight);
+
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL)return NULL;
-        int op1=diameterOfBinaryTree(root->left);
-        int op2=diameterOfBinaryTree(root->right);
-        int op3=height(root->left)+height(root->right);
+        if(root==NULL)return 0;
+        int leftHeight=height(root->left);
+        int rightHeight=height(root->right);
+        int op1=leftHeight+rightHeight;
+        int op2=diameterOfBinaryTree(root->left);
+        int op3=diameterOfBinaryTree(root->right);
         return max(op1,max(op2,op3));
     }
 };
