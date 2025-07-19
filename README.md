@@ -13,6 +13,7 @@ leatcode and gfg problem
 | [0054-spiral-matrix](https://github.com/Aayushraj14/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aayushraj14/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aayushraj14/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aayushraj14/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -38,6 +39,7 @@ leatcode and gfg problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aayushraj14/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aayushraj14/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
@@ -173,6 +175,7 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aayushraj14/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
