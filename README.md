@@ -14,6 +14,7 @@ leatcode and gfg problem
 | [0074-search-a-2d-matrix](https://github.com/Aayushraj14/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aayushraj14/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aayushraj14/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aayushraj14/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -29,6 +30,7 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aayushraj14/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Aayushraj14/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -163,6 +165,7 @@ leatcode and gfg problem
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aayushraj14/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -176,6 +179,7 @@ leatcode and gfg problem
 | ------- |
 | [0075-sort-colors](https://github.com/Aayushraj14/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aayushraj14/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
@@ -186,4 +190,8 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aayushraj14/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
