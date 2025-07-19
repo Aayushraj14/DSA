@@ -115,6 +115,7 @@ leatcode and gfg problem
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aayushraj14/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -132,6 +133,7 @@ leatcode and gfg problem
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aayushraj14/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -140,6 +142,7 @@ leatcode and gfg problem
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aayushraj14/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
@@ -198,4 +201,8 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayushraj14/DSA/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
