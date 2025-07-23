@@ -120,6 +120,7 @@ leatcode and gfg problem
 | [0199-binary-tree-right-side-view](https://github.com/Aayushraj14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Aayushraj14/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ leatcode and gfg problem
 | [0199-binary-tree-right-side-view](https://github.com/Aayushraj14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Aayushraj14/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -216,4 +218,8 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Aayushraj14/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
