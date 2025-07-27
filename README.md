@@ -54,6 +54,7 @@ leatcode and gfg problem
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayushraj14/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Aayushraj14/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aayushraj14/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -246,4 +247,5 @@ leatcode and gfg problem
 | [0234-palindrome-linked-list](https://github.com/Aayushraj14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Aayushraj14/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Aayushraj14/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aayushraj14/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
