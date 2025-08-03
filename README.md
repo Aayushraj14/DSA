@@ -40,6 +40,7 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aayushraj14/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Aayushraj14/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Aayushraj14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Aayushraj14/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayushraj14/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -73,6 +74,7 @@ leatcode and gfg problem
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aayushraj14/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
@@ -90,6 +92,7 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aayushraj14/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Aayushraj14/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aayushraj14/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aayushraj14/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
