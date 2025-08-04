@@ -77,6 +77,7 @@ leatcode and gfg problem
 | [0008-string-to-integer-atoi](https://github.com/Aayushraj14/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Aayushraj14/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aayushraj14/DSA/tree/master/0125-valid-palindrome) |
@@ -211,6 +212,7 @@ leatcode and gfg problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
@@ -267,6 +269,7 @@ leatcode and gfg problem
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
