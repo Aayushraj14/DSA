@@ -16,6 +16,7 @@ leatcode and gfg problem
 | [0073-set-matrix-zeroes](https://github.com/Aayushraj14/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aayushraj14/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aayushraj14/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aayushraj14/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aayushraj14/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayushraj14/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -238,6 +239,7 @@ leatcode and gfg problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aayushraj14/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -270,6 +272,7 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Aayushraj14/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
