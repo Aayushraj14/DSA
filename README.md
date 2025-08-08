@@ -202,6 +202,7 @@ leatcode and gfg problem
 | [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Aayushraj14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Aayushraj14/DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
@@ -309,4 +310,8 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Aayushraj14/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
