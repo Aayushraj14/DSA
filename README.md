@@ -258,6 +258,7 @@ leatcode and gfg problem
 | [0078-subsets](https://github.com/Aayushraj14/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Aayushraj14/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
