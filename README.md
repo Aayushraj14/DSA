@@ -159,6 +159,7 @@ leatcode and gfg problem
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Aayushraj14/DSA/tree/master/0584-find-customer-referee) |
 | [0627-swap-salary](https://github.com/Aayushraj14/DSA/tree/master/0627-swap-salary) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Aayushraj14/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 ## Tree
