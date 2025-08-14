@@ -166,6 +166,7 @@ leatcode and gfg problem
 | [0197-rising-temperature](https://github.com/Aayushraj14/DSA/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Aayushraj14/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Aayushraj14/DSA/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/Aayushraj14/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Aayushraj14/DSA/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/Aayushraj14/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Aayushraj14/DSA/tree/master/1258-article-views-i) |
