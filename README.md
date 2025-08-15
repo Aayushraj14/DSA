@@ -119,6 +119,7 @@ leatcode and gfg problem
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Aayushraj14/DSA/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Aayushraj14/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Aayushraj14/DSA/tree/master/0507-perfect-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -277,6 +278,7 @@ leatcode and gfg problem
 | [0078-subsets](https://github.com/Aayushraj14/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Aayushraj14/DSA/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aayushraj14/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -298,6 +300,7 @@ leatcode and gfg problem
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayushraj14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Aayushraj14/DSA/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Aayushraj14/DSA/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Aayushraj14/DSA/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
