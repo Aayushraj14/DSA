@@ -37,6 +37,7 @@ leatcode and gfg problem
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Aayushraj14/DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Aayushraj14/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Aayushraj14/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aayushraj14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aayushraj14/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Aayushraj14/DSA/tree/master/0735-asteroid-collision) |
@@ -60,6 +61,7 @@ leatcode and gfg problem
 | [0242-valid-anagram](https://github.com/Aayushraj14/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Aayushraj14/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aayushraj14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -245,6 +247,7 @@ leatcode and gfg problem
 | [0234-palindrome-linked-list](https://github.com/Aayushraj14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Aayushraj14/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Aayushraj14/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Aayushraj14/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Aayushraj14/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -266,6 +269,7 @@ leatcode and gfg problem
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Aayushraj14/DSA/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Aayushraj14/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aayushraj14/DSA/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
