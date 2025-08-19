@@ -2,14 +2,9 @@ class Solution {
 public:
     bool isPalindrome(int x) {
         if(x<0)return false;
-        long y=abs(x);
-        long store=0;
-        while(y>0){
-            store=store*10+y%10;
-           
-            y=y/10;
-        }
-        if(x==store)return true;
-        return false;
+        string s1=to_string(x);
+        string s2=s1;
+        reverse(s2.begin(),s2.end());
+        return (s1==s2)?true:false;
     }
 };
