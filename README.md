@@ -47,6 +47,7 @@ leatcode and gfg problem
 | [0792-binary-search](https://github.com/Aayushraj14/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aayushraj14/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aayushraj14/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aayushraj14/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -149,6 +150,7 @@ leatcode and gfg problem
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Aayushraj14/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aayushraj14/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aayushraj14/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +169,7 @@ leatcode and gfg problem
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayushraj14/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayushraj14/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aayushraj14/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -174,6 +177,7 @@ leatcode and gfg problem
 | [0238-product-of-array-except-self](https://github.com/Aayushraj14/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Aayushraj14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aayushraj14/DSA/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aayushraj14/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
 |  |
 | ------- |
