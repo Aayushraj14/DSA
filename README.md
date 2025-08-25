@@ -48,6 +48,7 @@ leatcode and gfg problem
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aayushraj14/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aayushraj14/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1651-shuffle-string](https://github.com/Aayushraj14/DSA/tree/master/1651-shuffle-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aayushraj14/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -112,6 +113,7 @@ leatcode and gfg problem
 | [0402-remove-k-digits](https://github.com/Aayushraj14/DSA/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/Aayushraj14/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1651-shuffle-string](https://github.com/Aayushraj14/DSA/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
