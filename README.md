@@ -51,6 +51,7 @@ leatcode and gfg problem
 | [1651-shuffle-string](https://github.com/Aayushraj14/DSA/tree/master/1651-shuffle-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aayushraj14/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aayushraj14/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
