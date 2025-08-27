@@ -124,6 +124,7 @@ leatcode and gfg problem
 | ------- |
 | [0009-palindrome-number](https://github.com/Aayushraj14/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aayushraj14/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Aayushraj14/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Aayushraj14/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aayushraj14/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aayushraj14/DSA/tree/master/0069-sqrtx) |
@@ -301,6 +302,7 @@ leatcode and gfg problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aayushraj14/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Aayushraj14/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
