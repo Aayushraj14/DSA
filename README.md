@@ -110,6 +110,7 @@ leatcode and gfg problem
 | [0022-generate-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Aayushraj14/DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Aayushraj14/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aayushraj14/DSA/tree/master/0205-isomorphic-strings) |
@@ -283,6 +284,7 @@ leatcode and gfg problem
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aayushraj14/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Aayushraj14/DSA/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Aayushraj14/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayushraj14/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aayushraj14/DSA/tree/master/0198-house-robber) |
