@@ -110,6 +110,7 @@ leatcode and gfg problem
 | [0022-generate-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Aayushraj14/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Aayushraj14/DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Aayushraj14/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -282,6 +283,7 @@ leatcode and gfg problem
 | [0022-generate-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Aayushraj14/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Aayushraj14/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aayushraj14/DSA/tree/master/0072-edit-distance) |
@@ -342,6 +344,7 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayushraj14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Aayushraj14/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aayushraj14/DSA/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Aayushraj14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Aayushraj14/DSA/tree/master/0342-power-of-four) |
@@ -390,6 +393,7 @@ leatcode and gfg problem
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Aayushraj14/DSA/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Aayushraj14/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Aayushraj14/DSA/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/Aayushraj14/DSA/tree/master/1448-maximum-69-number) |
