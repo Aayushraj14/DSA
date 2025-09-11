@@ -134,6 +134,7 @@ leatcode and gfg problem
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [2887-sort-vowels-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -352,6 +353,7 @@ leatcode and gfg problem
 | [0451-sort-characters-by-frequency](https://github.com/Aayushraj14/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aayushraj14/DSA/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Recursion
 |  |
 | ------- |
