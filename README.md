@@ -57,6 +57,7 @@ leatcode and gfg problem
 | [1046-max-consecutive-ones-iii](https://github.com/Aayushraj14/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1651-shuffle-string](https://github.com/Aayushraj14/DSA/tree/master/1651-shuffle-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aayushraj14/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aayushraj14/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -156,6 +157,7 @@ leatcode and gfg problem
 | [0445-add-two-numbers-ii](https://github.com/Aayushraj14/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Aayushraj14/DSA/tree/master/0507-perfect-number) |
 | [1448-maximum-69-number](https://github.com/Aayushraj14/DSA/tree/master/1448-maximum-69-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
@@ -342,6 +344,7 @@ leatcode and gfg problem
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Aayushraj14/DSA/tree/master/0342-power-of-four) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aayushraj14/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -386,6 +389,7 @@ leatcode and gfg problem
 | [0040-combination-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aayushraj14/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -430,4 +434,12 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushraj14/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
