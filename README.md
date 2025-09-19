@@ -214,6 +214,7 @@ leatcode and gfg problem
 | [0175-combine-two-tables](https://github.com/Aayushraj14/DSA/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aayushraj14/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Aayushraj14/DSA/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Aayushraj14/DSA/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Aayushraj14/DSA/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Aayushraj14/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Aayushraj14/DSA/tree/master/0577-employee-bonus) |
