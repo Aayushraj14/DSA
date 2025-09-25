@@ -160,6 +160,7 @@ leatcode and gfg problem
 | [1448-maximum-69-number](https://github.com/Aayushraj14/DSA/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2491-smallest-even-multiple](https://github.com/Aayushraj14/DSA/tree/master/2491-smallest-even-multiple) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
@@ -448,4 +449,8 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Aayushraj14/DSA/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
