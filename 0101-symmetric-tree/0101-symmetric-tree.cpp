@@ -11,17 +11,22 @@
  */
 class Solution {
 public:
-    bool check(TreeNode* l,TreeNode* r){
-        if(l==NULL && r==NULL)return true;
-        if(l==NULL && r!=NULL)return false;
-        if(r==NULL && l!=NULL)return false;
+    bool identical(TreeNode* p,TreeNode* q){
+        if(p==NULL && q==NULL)return true;
+        if(p==NULL && q!=NULL)return false;
+        if(p!=NULL && q==NULL)return false;
 
-        if((l->val==r->val) && check(l->left,r->right) && check(l->right,r->left))return true;
-        return false;
+        if(p->val!=q->val)return false;
+
+        bool ans1=identical(p->right,q->left);
+        bool ans2=identical(p->left,q->right);
+        return ans1&&ans2;
     }
     bool isSymmetric(TreeNode* root) {
-       if(root==NULL)return true;
+        if(root->left==NULL && root->right==NULL)return true;
 
-      return check(root->left,root->right);
+        TreeNode*p=root->left;
+        TreeNode*q=root->right;
+        return identical(p,q);
     }
 };
