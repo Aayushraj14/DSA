@@ -246,6 +246,7 @@ leatcode and gfg problem
 | [0110-balanced-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aayushraj14/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aayushraj14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aayushraj14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -271,6 +272,7 @@ leatcode and gfg problem
 | [0110-balanced-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aayushraj14/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aayushraj14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aayushraj14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -285,6 +287,7 @@ leatcode and gfg problem
 | [0110-balanced-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aayushraj14/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aayushraj14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aayushraj14/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aayushraj14/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Aayushraj14/DSA/tree/master/0386-lexicographical-numbers) |
@@ -296,6 +299,7 @@ leatcode and gfg problem
 | [0032-longest-valid-parentheses](https://github.com/Aayushraj14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aayushraj14/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aayushraj14/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aayushraj14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Aayushraj14/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Aayushraj14/DSA/tree/master/0445-add-two-numbers-ii) |
