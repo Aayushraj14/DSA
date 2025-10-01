@@ -160,6 +160,7 @@ leatcode and gfg problem
 | [0445-add-two-numbers-ii](https://github.com/Aayushraj14/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Aayushraj14/DSA/tree/master/0507-perfect-number) |
 | [1448-maximum-69-number](https://github.com/Aayushraj14/DSA/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/Aayushraj14/DSA/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aayushraj14/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -198,6 +199,7 @@ leatcode and gfg problem
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aayushraj14/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Aayushraj14/DSA/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/Aayushraj14/DSA/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aayushraj14/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Sliding Window
