@@ -170,6 +170,7 @@ leatcode and gfg problem
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aayushraj14/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Aayushraj14/DSA/tree/master/2491-smallest-even-multiple) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/Aayushraj14/DSA/tree/master/3336-water-bottles-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -207,6 +208,7 @@ leatcode and gfg problem
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aayushraj14/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Aayushraj14/DSA/tree/master/2470-removing-stars-from-a-string) |
+| [3336-water-bottles-ii](https://github.com/Aayushraj14/DSA/tree/master/3336-water-bottles-ii) |
 ## Sliding Window
 |  |
 | ------- |
