@@ -42,6 +42,7 @@ leatcode and gfg problem
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Aayushraj14/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aayushraj14/DSA/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Aayushraj14/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayushraj14/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Aayushraj14/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aayushraj14/DSA/tree/master/0485-max-consecutive-ones) |
@@ -450,6 +451,7 @@ leatcode and gfg problem
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aayushraj14/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Aayushraj14/DSA/tree/master/0044-wildcard-matching) |
+| [0334-increasing-triplet-subsequence](https://github.com/Aayushraj14/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Aayushraj14/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Aayushraj14/DSA/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/Aayushraj14/DSA/tree/master/1448-maximum-69-number) |
