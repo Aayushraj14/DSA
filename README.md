@@ -65,6 +65,7 @@ leatcode and gfg problem
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aayushraj14/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Aayushraj14/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aayushraj14/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
@@ -116,6 +117,7 @@ leatcode and gfg problem
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aayushraj14/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aayushraj14/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Aayushraj14/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -194,6 +196,7 @@ leatcode and gfg problem
 | [0792-binary-search](https://github.com/Aayushraj14/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aayushraj14/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aayushraj14/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Aayushraj14/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -394,6 +397,7 @@ leatcode and gfg problem
 | [0451-sort-characters-by-frequency](https://github.com/Aayushraj14/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aayushraj14/DSA/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Aayushraj14/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Recursion
 |  |
