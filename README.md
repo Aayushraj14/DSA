@@ -189,6 +189,7 @@ leatcode and gfg problem
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Aayushraj14/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aayushraj14/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Aayushraj14/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aayushraj14/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aayushraj14/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -478,4 +479,8 @@ leatcode and gfg problem
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Aayushraj14/DSA/tree/master/2491-smallest-even-multiple) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Aayushraj14/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
