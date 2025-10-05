@@ -84,6 +84,7 @@ leatcode and gfg problem
 | [0242-valid-anagram](https://github.com/Aayushraj14/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aayushraj14/DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushraj14/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aayushraj14/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aayushraj14/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -138,6 +139,7 @@ leatcode and gfg problem
 | [0242-valid-anagram](https://github.com/Aayushraj14/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayushraj14/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aayushraj14/DSA/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Aayushraj14/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushraj14/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aayushraj14/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -379,6 +381,7 @@ leatcode and gfg problem
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Aayushraj14/DSA/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Aayushraj14/DSA/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aayushraj14/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -394,6 +397,7 @@ leatcode and gfg problem
 | [0229-majority-element-ii](https://github.com/Aayushraj14/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aayushraj14/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayushraj14/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Aayushraj14/DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushraj14/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aayushraj14/DSA/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
