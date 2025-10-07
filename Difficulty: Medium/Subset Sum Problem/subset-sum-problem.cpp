@@ -1,22 +1,22 @@
 class Solution {
   public:
-    bool solve(vector<int>& arr, int n,int sum, vector<vector<int>>&dp){
+    bool solve(vector<int>& arr, int i,int sum, vector<vector<int>>&dp){
         if(sum==0)return true;
-        if(n==0)return false;
+        if(sum < 0) return false;
+
+        if(i>=arr.size())return false;
         
-        if(dp[n][sum]!=-1)return dp[n][sum];
         
-        if(arr[n-1]>sum)return dp[n][sum]=solve(arr,n-1,sum,dp);
+        if(dp[i][sum]!=-1)return dp[i][sum];
+        bool ans1=solve(arr,i+1,sum-arr[i],dp);
+        bool ans2=solve(arr,i+1,sum,dp);
         
-        bool take=solve(arr,n-1,sum-arr[n-1],dp);
-        bool notTake=solve(arr,n-1,sum,dp);
-        
-        return dp[n][sum]=(take || notTake);
+        return dp[i][sum]=ans1||ans2;
     }
     bool isSubsetSum(vector<int>& arr, int sum) {
-       int n=arr.size();
-       vector<vector<int>>dp(n+1,vector<int>(sum+1,-1));
-       
-       return solve(arr,n,sum,dp);
+        // code here
+        vector<vector<int>>dp(arr.size()+1,vector<int>(sum+1,-1));
+        return solve(arr,0,sum,dp);
+        
     }
 };
