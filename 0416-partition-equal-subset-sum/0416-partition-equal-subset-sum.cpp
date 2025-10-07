@@ -1,26 +1,21 @@
 class Solution {
 public:
-    bool solve(vector<int>& nums,int target,int i, vector<vector<int>>&dp){
-        if(target==0)return true;
-        if(i>=nums.size() || target<0)return false;
+    bool solve(vector<int>& nums,int i,int sum, vector<vector<int>>&dp){
+        if(sum==0)return true;
+        if(sum<0 || i>=nums.size())return false;
 
-        if(dp[i][target]!=-1)return dp[i][target];
+        if(dp[i][sum]!=-1)return dp[i][sum];
+        bool inc=solve(nums,i+1,sum-nums[i],dp);
+        bool exc=solve(nums,i+1,sum,dp);
 
-        bool include=solve(nums,target-nums[i],i+1,dp);
-        bool exclude=solve(nums,target,i+1,dp);
-        return dp[i][target]=(include || exclude);
+        return dp[i][sum]=inc||exc;
     }
-
     bool canPartition(vector<int>& nums) {
-        int sum=0;
-        for(auto num:nums){
-            sum+=num;
-        }
+        int sum=accumulate(nums.begin(),nums.end(),0);
         if(sum%2!=0)return false;
-        int target=sum/2;
-        int i=0;
 
-        vector<vector<int>>dp(nums.size(),vector<int>(sum/2+1,-1));
-        return solve(nums,target,i,dp);
+        vector<vector<int>>dp(nums.size()+1,vector<int>(sum/2+1,-1));
+        return solve(nums,0,sum/2,dp);
+
     }
 };
