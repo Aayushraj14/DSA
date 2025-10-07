@@ -5,13 +5,16 @@ public:
         sort(s.begin(),s.end());
 
         int i=0,j=0;
-        int count=0;
+        int ans=0;
         while(i<g.size() && j<s.size()){
-            if(g[i]<=s[j]){
-                i++,j++,count++;
+            if(s[j]>=g[i]){
+                i++;j++;
+                ans++;
             }
-            else if(g[i]>s[j])j++;
+            else{
+                j++;
+            }
         }
-        return count;
+        return ans;
     }
 };
