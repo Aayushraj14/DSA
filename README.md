@@ -146,6 +146,7 @@ leatcode and gfg problem
 | [0402-remove-k-digits](https://github.com/Aayushraj14/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushraj14/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aayushraj14/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0742-to-lower-case](https://github.com/Aayushraj14/DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Aayushraj14/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1651-shuffle-string](https://github.com/Aayushraj14/DSA/tree/master/1651-shuffle-string) |
