@@ -2,23 +2,25 @@
 
 class Solution {
   public:
-    int solve(vector<int> &price, vector<vector<int>>&dp,int N,int i){
-        if(N==0)return 0;
-        if(N<0 || i>=price.size())return INT_MIN;
+    int solve(vector<int> &price,int i,int len,vector<vector<int>>&dp){
+        if(len<0)return INT_MIN;
+        if(len==0)return 0;
+        if(i==price.size())return 0;
         
-        if(dp[i][N]!=-1)return dp[i][N];
         
-        //ussi ko continue karo
-        int op1=price[i]+solve(price,dp,N-i-1,i);
-        int op2=price[i]+solve(price,dp,N-i-1,i+1);
-        int op3=solve(price,dp,N,i+1);
+        if(dp[i][len]!=-1)return dp[i][len];
+        int incR=price[i]+solve(price,i,len-(i+1),dp);
+        //int inc=price[i]+solve(price,i+1,len-(i+1));
+        int exc=solve(price,i+1,len,dp);
         
-        return dp[i][N]=max(op1,max(op2,op3));
+        return dp[i][len]=max({exc,incR});
     }
     int cutRod(vector<int> &price) {
+        // code here
         
-        vector<vector<int>>dp(price.size(),vector<int>(price.size()+1,-1));
-        return solve(price,dp,price.size(),0);
-        
+       
+        int n=price.size();
+         vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        return solve(price,0,n,dp);
     }
 };
