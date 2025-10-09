@@ -48,6 +48,7 @@ leatcode and gfg problem
 | [0416-partition-equal-subset-sum](https://github.com/Aayushraj14/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Aayushraj14/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aayushraj14/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Aayushraj14/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Aayushraj14/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aayushraj14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Aayushraj14/DSA/tree/master/0518-coin-change-ii) |
@@ -356,6 +357,7 @@ leatcode and gfg problem
 | [0300-longest-increasing-subsequence](https://github.com/Aayushraj14/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aayushraj14/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayushraj14/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Aayushraj14/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aayushraj14/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aayushraj14/DSA/tree/master/0518-coin-change-ii) |
 ## Monotonic Stack
@@ -438,6 +440,7 @@ leatcode and gfg problem
 | [0078-subsets](https://github.com/Aayushraj14/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Aayushraj14/DSA/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Aayushraj14/DSA/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Aayushraj14/DSA/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search Tree
 |  |
