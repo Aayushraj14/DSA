@@ -160,6 +160,7 @@ leatcode and gfg problem
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Aayushraj14/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3379-score-of-a-string](https://github.com/Aayushraj14/DSA/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
