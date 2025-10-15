@@ -267,6 +267,7 @@ leatcode and gfg problem
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Aayushraj14/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Aayushraj14/DSA/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aayushraj14/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1811-fix-names-in-a-table](https://github.com/Aayushraj14/DSA/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Aayushraj14/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Aayushraj14/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 ## Tree
