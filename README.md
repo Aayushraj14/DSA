@@ -266,6 +266,7 @@ leatcode and gfg problem
 | [1390-average-selling-price](https://github.com/Aayushraj14/DSA/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Aayushraj14/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Aayushraj14/DSA/tree/master/1625-group-sold-products-by-the-date) |
+| [1670-patients-with-a-condition](https://github.com/Aayushraj14/DSA/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aayushraj14/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/Aayushraj14/DSA/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Aayushraj14/DSA/tree/master/1827-invalid-tweets) |
