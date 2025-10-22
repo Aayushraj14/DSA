@@ -169,6 +169,7 @@ leatcode and gfg problem
 | [0029-divide-two-integers](https://github.com/Aayushraj14/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Aayushraj14/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aayushraj14/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Aayushraj14/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Aayushraj14/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aayushraj14/DSA/tree/master/0189-rotate-array) |
@@ -354,6 +355,7 @@ leatcode and gfg problem
 | [0042-trapping-rain-water](https://github.com/Aayushraj14/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Aayushraj14/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Aayushraj14/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Aayushraj14/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aayushraj14/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aayushraj14/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aayushraj14/DSA/tree/master/0115-distinct-subsequences) |
@@ -498,6 +500,7 @@ leatcode and gfg problem
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aayushraj14/DSA/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aayushraj14/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
