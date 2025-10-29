@@ -194,6 +194,7 @@ leatcode and gfg problem
 | [2491-smallest-even-multiple](https://github.com/Aayushraj14/DSA/tree/master/2491-smallest-even-multiple) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/Aayushraj14/DSA/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Aayushraj14/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String Matching
 |  |
 | ------- |
@@ -414,6 +415,7 @@ leatcode and gfg problem
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aayushraj14/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Aayushraj14/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
