@@ -1,30 +1,36 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        vector<int>PrevGE(height.size());
-        vector<int>nextGE(height.size());
+        vector<int>left(height.size());
+        vector<int>right(height.size());
 
-        int prev=0;
-        int next=0;
-
-        for(int i=0;i<height.size();i++){
-           
-            if(height[i]>prev)prev=height[i];
-             PrevGE[i]=prev;
-        }
+        int leftWall=-1;
+        int rightWall=-1;
 
         for(int i=height.size()-1;i>=0;i--){
-            
-            if(height[i]>next)next=height[i];
-            nextGE[i]=next;
+            if(height[i]<leftWall)
+            left[i]=leftWall;
+            else 
+            left[i]=-1;
+            leftWall=max(leftWall,height[i]);
         }
 
-       int ans=0;
-        for(int i=1;i<height.size()-1;i++){
-             ans+=(min(PrevGE[i],nextGE[i])-height[i]);
-             
-           
+        for(int i=0;i<height.size();i++){
+            if(height[i]<rightWall)
+            right[i]=rightWall;
+            else 
+            right[i]=-1;
+            rightWall=max(rightWall,height[i]);
         }
-        return ans;
+
+        int sum=0;
+        for(int i=0;i<height.size();i++){
+            int mini=min(left[i],right[i]);
+            if(mini!=-1){
+                sum+=mini-height[i];
+            }
+        }
+
+        return sum;
     }
 };
