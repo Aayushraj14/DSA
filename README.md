@@ -75,6 +75,7 @@ leatcode and gfg problem
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aayushraj14/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aayushraj14/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aayushraj14/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aayushraj14/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ leatcode and gfg problem
 | [0560-subarray-sum-equals-k](https://github.com/Aayushraj14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aayushraj14/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aayushraj14/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -194,6 +196,7 @@ leatcode and gfg problem
 | [2491-smallest-even-multiple](https://github.com/Aayushraj14/DSA/tree/master/2491-smallest-even-multiple) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/Aayushraj14/DSA/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aayushraj14/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aayushraj14/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String Matching
 |  |
