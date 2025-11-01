@@ -75,6 +75,7 @@ leatcode and gfg problem
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Aayushraj14/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aayushraj14/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aayushraj14/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aayushraj14/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aayushraj14/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -100,6 +101,7 @@ leatcode and gfg problem
 | [0560-subarray-sum-equals-k](https://github.com/Aayushraj14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aayushraj14/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aayushraj14/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aayushraj14/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -486,6 +488,7 @@ leatcode and gfg problem
 | [0908-middle-of-the-linked-list](https://github.com/Aayushraj14/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aayushraj14/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aayushraj14/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aayushraj14/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
