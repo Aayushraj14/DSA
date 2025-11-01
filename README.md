@@ -162,6 +162,7 @@ leatcode and gfg problem
 | [0742-to-lower-case](https://github.com/Aayushraj14/DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Aayushraj14/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/Aayushraj14/DSA/tree/master/1250-longest-common-subsequence) |
 | [1651-shuffle-string](https://github.com/Aayushraj14/DSA/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/Aayushraj14/DSA/tree/master/1797-goal-parser-interpretation) |
@@ -388,6 +389,7 @@ leatcode and gfg problem
 | [0494-target-sum](https://github.com/Aayushraj14/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aayushraj14/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aayushraj14/DSA/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/Aayushraj14/DSA/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
