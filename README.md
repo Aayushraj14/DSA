@@ -82,6 +82,7 @@ leatcode and gfg problem
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aayushraj14/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aayushraj14/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aayushraj14/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aayushraj14/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aayushraj14/DSA/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -256,6 +257,7 @@ leatcode and gfg problem
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aayushraj14/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/Aayushraj14/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/Aayushraj14/DSA/tree/master/3336-water-bottles-ii) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aayushraj14/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -436,6 +438,7 @@ leatcode and gfg problem
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aayushraj14/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aayushraj14/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aayushraj14/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
