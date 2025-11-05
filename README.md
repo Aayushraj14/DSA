@@ -178,6 +178,7 @@ leatcode and gfg problem
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aayushraj14/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/Aayushraj14/DSA/tree/master/1797-goal-parser-interpretation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Aayushraj14/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aayushraj14/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aayushraj14/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -253,6 +254,7 @@ leatcode and gfg problem
 | [0054-spiral-matrix](https://github.com/Aayushraj14/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Aayushraj14/DSA/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Aayushraj14/DSA/tree/master/1642-water-bottles) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Aayushraj14/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aayushraj14/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aayushraj14/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -381,6 +383,7 @@ leatcode and gfg problem
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aayushraj14/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aayushraj14/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Aayushraj14/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aayushraj14/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Aayushraj14/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
