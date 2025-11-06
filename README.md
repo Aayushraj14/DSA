@@ -194,6 +194,7 @@ leatcode and gfg problem
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aayushraj14/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aayushraj14/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aayushraj14/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Aayushraj14/DSA/tree/master/0029-divide-two-integers) |
@@ -472,6 +473,7 @@ leatcode and gfg problem
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aayushraj14/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayushraj14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Aayushraj14/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aayushraj14/DSA/tree/master/0050-powx-n) |
@@ -508,6 +510,7 @@ leatcode and gfg problem
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aayushraj14/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aayushraj14/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayushraj14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aayushraj14/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
