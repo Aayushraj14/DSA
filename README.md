@@ -75,6 +75,7 @@ leatcode and gfg problem
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Aayushraj14/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aayushraj14/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Aayushraj14/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aayushraj14/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aayushraj14/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aayushraj14/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -109,6 +110,7 @@ leatcode and gfg problem
 | [0560-subarray-sum-equals-k](https://github.com/Aayushraj14/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Aayushraj14/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aayushraj14/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Aayushraj14/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Aayushraj14/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aayushraj14/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aayushraj14/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -263,6 +265,7 @@ leatcode and gfg problem
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aayushraj14/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aayushraj14/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aayushraj14/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Aayushraj14/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aayushraj14/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aayushraj14/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/Aayushraj14/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -469,6 +472,7 @@ leatcode and gfg problem
 | [0451-sort-characters-by-frequency](https://github.com/Aayushraj14/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aayushraj14/DSA/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aayushraj14/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Aayushraj14/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aayushraj14/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Recursion
