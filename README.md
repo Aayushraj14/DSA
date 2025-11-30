@@ -138,6 +138,7 @@ leatcode and gfg problem
 | [0202-happy-number](https://github.com/Aayushraj14/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aayushraj14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Aayushraj14/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Aayushraj14/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayushraj14/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Aayushraj14/DSA/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Aayushraj14/DSA/tree/master/0647-palindromic-substrings) |
@@ -167,6 +168,7 @@ leatcode and gfg problem
 | [0151-reverse-words-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aayushraj14/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aayushraj14/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Aayushraj14/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayushraj14/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayushraj14/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aayushraj14/DSA/tree/master/0389-find-the-difference) |
