@@ -187,6 +187,7 @@ leatcode and gfg problem
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aayushraj14/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayushraj14/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/Aayushraj14/DSA/tree/master/1797-goal-parser-interpretation) |
+| [1903-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aayushraj14/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aayushraj14/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -216,6 +217,7 @@ leatcode and gfg problem
 | [0507-perfect-number](https://github.com/Aayushraj14/DSA/tree/master/0507-perfect-number) |
 | [1448-maximum-69-number](https://github.com/Aayushraj14/DSA/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Aayushraj14/DSA/tree/master/1642-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayushraj14/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aayushraj14/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -554,6 +556,7 @@ leatcode and gfg problem
 | [0680-valid-palindrome-ii](https://github.com/Aayushraj14/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/Aayushraj14/DSA/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aayushraj14/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1903-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Aayushraj14/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Aayushraj14/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Trie
