@@ -325,6 +325,7 @@ leatcode and gfg problem
 | [1811-fix-names-in-a-table](https://github.com/Aayushraj14/DSA/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Aayushraj14/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Aayushraj14/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+| [3436-find-valid-emails](https://github.com/Aayushraj14/DSA/tree/master/3436-find-valid-emails) |
 ## Tree
 |  |
 | ------- |
