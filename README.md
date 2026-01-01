@@ -64,6 +64,7 @@ leatcode and gfg problem
 | [1046-max-consecutive-ones-iii](https://github.com/Aayushraj14/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Aayushraj14/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aayushraj14/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1470-shuffle-the-array](https://github.com/Aayushraj14/DSA/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aayushraj14/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Aayushraj14/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1651-shuffle-string](https://github.com/Aayushraj14/DSA/tree/master/1651-shuffle-string) |
